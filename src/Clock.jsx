@@ -40,7 +40,7 @@ const activities = [
     <div className="outer-container ">
       <h2 style={{ margin: 10 }}>Nana's Daily Routine! 💸✨</h2>
       <p style={{ margin: 0 }}>
-        <i><em></em>Progress, not perfection. Every step counts!</em></i>
+        <i><em>Progress, not perfection. Every step counts!</em></i>
       </p>
       <h3 style={{ margin: 10 }}>Ce qu'on fait aujourd'hui</h3>
       <div className="clock-container">
